@@ -1,6 +1,6 @@
 mark {
   background: #ff0;
-  color: #000;
+  color: #111;
 }
 small {
   font-size: 80%;
@@ -20,12 +20,6 @@ sub {
 }
 img {
   border: 0;
-}
-svg:not(:root) {
-  overflow: hidden;
-}
-figure {
-  asfasdfsdfsdfasdf
 }
 hr {
   -moz-box-sizing: content-box;
